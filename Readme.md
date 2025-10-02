@@ -36,6 +36,27 @@ Here’s a preview of the Brew3 interface:
 
 ---
 
+## ⚙️ Installation & Setup
+
+1. **Clone** the repo  
+   ```bash
+   git clone https://github.com/Shivang14d04/Brew3.git
+   cd Brew3
+   ```
+2. **Install Dependencies**
+    ```bash
+    npm install
+    ```
+3. **Run** a local Anvil Blockchain
+    ```bash
+    Anvil
+    ```
+4. **Click** go live in  vscode to run the app   
+
+   
+
+
+
 
 
 
