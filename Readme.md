@@ -8,6 +8,14 @@ The funds are stored in a smart contract and can be **withdrawn by the owner** a
 
 ---
 
+
+## 🎥 Demo Video
+
+Check out Brew3 in action:
+
+➡️ [Demo: CoffeeSmartContract.webm](https://github.com/Shivang14d04/Brew3/blob/main/demo/CoffeeSmartContract.webm)  
+
+
 ## 📸 Features
 - 🔗 **Connect Wallet:** Connect with MetaMask using Viem.
 - 💸 **Fund the Contract:** Send ETH to the coffee contract.
@@ -24,5 +32,6 @@ The funds are stored in a smart contract and can be **withdrawn by the owner** a
 - **Local Development:** Foundry
 
 ---
+
 
 
